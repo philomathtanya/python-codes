@@ -1,1 +1,1 @@
-# python-lab
+# python basic programs
