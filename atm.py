@@ -1,0 +1,10 @@
+a=int(input())
+a=a-100
+twork=a//2000
+a=a-twork*2000
+fiveh=a//500
+a=a-fiveh*500
+hud=a//100
+print("2k:",twork)
+print("500:",fiveh)
+print("100:",hud+1)
